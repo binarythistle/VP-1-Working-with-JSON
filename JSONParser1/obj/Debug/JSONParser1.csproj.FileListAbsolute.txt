@@ -1,0 +1,11 @@
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-1 Working with JSON\Visual Studio Projects\JSONParser1\JSONParser1\bin\Debug\JSONParser1.exe.config
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-1 Working with JSON\Visual Studio Projects\JSONParser1\JSONParser1\bin\Debug\JSONParser1.exe
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-1 Working with JSON\Visual Studio Projects\JSONParser1\JSONParser1\bin\Debug\JSONParser1.pdb
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-1 Working with JSON\Visual Studio Projects\JSONParser1\JSONParser1\obj\Debug\JSONParser1.csprojResolveAssemblyReference.cache
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-1 Working with JSON\Visual Studio Projects\JSONParser1\JSONParser1\obj\Debug\JSONParser1.Form1.resources
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-1 Working with JSON\Visual Studio Projects\JSONParser1\JSONParser1\obj\Debug\JSONParser1.Properties.Resources.resources
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-1 Working with JSON\Visual Studio Projects\JSONParser1\JSONParser1\obj\Debug\JSONParser1.csproj.GenerateResource.Cache
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-1 Working with JSON\Visual Studio Projects\JSONParser1\JSONParser1\obj\Debug\JSONParser1.exe
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-1 Working with JSON\Visual Studio Projects\JSONParser1\JSONParser1\obj\Debug\JSONParser1.pdb
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-1 Working with JSON\Visual Studio Projects\JSONParser1\JSONParser1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-1 Working with JSON\Visual Studio Projects\JSONParser1\JSONParser1\bin\Debug\Newtonsoft.Json.xml
